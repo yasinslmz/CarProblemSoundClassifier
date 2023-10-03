@@ -13,3 +13,4 @@ Model ve çalışmalar geliştirildikçe bu proje de güncellenecektir.
 
 Application için flutter kullandım. Basit orta ölçekte sayılabilecek kullanıcı dostu bir uygulama oldu.
 
+Projede yoğunlukla python ve dart dili kullanılmıştır github C++ kullanıldı gösteriyor dikkate almayınız.
